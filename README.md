@@ -1,5 +1,9 @@
 # PumpClaw
 
+<p align="center">
+  <img src="https://i.ibb.co/VYn2DBNc/Screenshot-2026-06-21-at-1-23-48-am.png" alt="PumpClaw banner" width="700" />
+</p>
+
 PumpClaw helps traders quickly evaluate coins by surfacing useful signals, risks, and momentum clues in one place.
 
 ## What it does
